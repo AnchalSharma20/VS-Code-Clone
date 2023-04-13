@@ -1,3 +1,3 @@
-# VS-Code-Clone
+# VS Code Clone
 
-## Live Site URL : [Visit here](https://wonderful-souffle-d818a6.netlify.app/) 
+## Live Site URL : [Visit here](https://wonderful-souffle-d818a6.netlify.app/)🚀
